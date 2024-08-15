@@ -15,7 +15,6 @@ import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
 
 
-
 function App() {
   return (
 // 21 - REACT ROUTER 
